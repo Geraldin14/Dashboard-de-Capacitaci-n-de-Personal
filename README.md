@@ -39,7 +39,7 @@ El dashboard permite visualizar de forma clara y dinámica:
 
 ## 📷 Vista del Dashboard
 
-![image](https://github.com/user-attachments/assets/ee5de441-2390-4aec-9f04-284549713fe9)
+![image](https://github.com/user-attachments/assets/28a5ec4f-e700-4c66-9d00-dba2a2d403c6)
 
 
 ---
