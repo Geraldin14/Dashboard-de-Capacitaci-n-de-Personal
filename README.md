@@ -58,3 +58,33 @@ ControlEconomico-Dashboard-Excel/
 │ └── Agregaciones por año, país, marca, canal
 │
 └── Dashboard/ # Panel interactivo principal
+
+- **Hoja `Data`**: Base de datos principal
+
+- **Hoja `Calculos`**: Incluye las **fórmulas intermedias y consolidación de métricas financieras** como ingresos totales, gastos acumulados y beneficios netos, agrupadas por país, canal y marca.
+
+- **Hoja `Dashboard`**: Visualización final del análisis. Contiene los **KPIs** financieros, gráficos interactivos y filtros dinámicos, permitiendo explorar el rendimiento económico mensual y por país de forma intuitiva.
+
+---
+
+## 🧾 Diccionario de Datos
+
+| **Columna** | **Descripción** |
+|-------------|-----------------|
+| Año         | Año del registro de la transacción |
+| Mes         | Mes del registro |
+| Canal       | Canal de comercialización (Ecommerce, Local, etc.) |
+| Marca       | Marca asociada al producto o servicio |
+| País        | País donde ocurrió la transacción |
+| Tipo        | Clasificación como Ingreso o Gasto |
+| Valor       | Monto monetario registrado |
+
+
+## 👩‍💼 Autora
+
+**Geraldin Carriazo**  
+Analista de Datos | Especialista en Visualización de Información  
+🔗 [LinkedIn](https://www.linkedin.com/in/geraldin-carriazo)
+
+
+
