@@ -39,7 +39,7 @@ El dashboard permite visualizar de forma clara y dinámica:
 
 ## 📷 Vista del Dashboard
 
-![image](https://github.com/user-attachments/assets/28a5ec4f-e700-4c66-9d00-dba2a2d403c6)
+![image](https://github.com/user-attachments/assets/e07a05d4-f219-4fd8-962a-fb468b898467)
 
 
 ---
@@ -47,3 +47,14 @@ El dashboard permite visualizar de forma clara y dinámica:
 ## 📁 Estructura del Proyecto
 
 ControlEconomico-Dashboard-Excel/
+│
+├── DASHBOARD CONTROL ECONOMICO EN EXCEL....xlsx # Archivo principal del proyecto
+├── README.md # Descripción general del proyecto
+│
+├── Data/ # Contiene la base de datos original
+│ └── Tabla con registros de ingresos y gastos
+│
+├── Calculos/ # Contiene tablas dinámicas de soporte
+│ └── Agregaciones por año, país, marca, canal
+│
+└── Dashboard/ # Panel interactivo principal
