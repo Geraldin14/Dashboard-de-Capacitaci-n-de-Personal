@@ -46,18 +46,7 @@ El dashboard permite visualizar de forma clara y dinámica:
 
 ## 📁 Estructura del Proyecto
 
-ControlEconomico-Dashboard-Excel/
-│
-├── DASHBOARD CONTROL ECONOMICO EN EXCEL....xlsx # Archivo principal del proyecto
-├── README.md # Descripción general del proyecto
-│
-├── Data/ # Contiene la base de datos original
-│ └── Tabla con registros de ingresos y gastos
-│
-├── Calculos/ # Contiene tablas dinámicas de soporte
-│ └── Agregaciones por año, país, marca, canal
-│
-└── Dashboard/ # Panel interactivo principal
+ControlEconomico-Dashboard-Excel
 
 - **Hoja `Data`**: Base de datos principal
 
